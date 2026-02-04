@@ -1,4 +1,4 @@
-# Iris Keyless (Hardcoded Clean Edition)
+# Iris no keybinds
 
 This is a specialized fork of the **Iris Shaders** mod. It has been modified at the source level to completely eliminate all default keybindings and their entries in the Minecraft controls menu.
 
