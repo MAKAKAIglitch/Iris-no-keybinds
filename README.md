@@ -6,12 +6,9 @@ This is a specialized fork of the **Iris Shaders** mod. It has been modified at 
 * **Source-Level Removal:** All keybind registrations are hard-removed from the code. 
 * **Clean UI:** The "Iris" category is completely gone from the "Keybinds" menu. No more clutter.
 * **No Conflicts:** Zero chance of accidental shader toggles or reloads during gameplay.
-* **LTSC-Style Minimalist:** Designed for users who want a "set and forget" experience without extra background input listeners.
 
 ## 🚀 Performance
 Optimized for high-performance setups and low-latency gaming.
-* **Tested on:** Intel Xeon E5-2690 v3 + AMD Radeon RX 6600.
-* **Target:** Flawless 165Hz gameplay with zero stuttering.
 * **Compatibility:** Full support for Sodium and all major shader packs.
 
 ## ⚙️ How to use
